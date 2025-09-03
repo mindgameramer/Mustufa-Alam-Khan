@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Toolbox",
+  "description": "A versatile web application featuring a collection of powerful tools powered by the Google Gemini API. Includes a Recipe Generator, Code Explainer, and an Image Generator to showcase different AI capabilities in a sleek, user-friendly interface.",
+  "requestFramePermissions": []
+}

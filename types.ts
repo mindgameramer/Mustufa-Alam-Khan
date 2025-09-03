@@ -1,0 +1,1 @@
+export type Tool = 'image' | 'voice' | 'chat' | 'website' | 'data_viz' | 'content_checker' | 'recipe' | 'code_explainer' | 'language_detector';
